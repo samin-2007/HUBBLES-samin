@@ -1,0 +1,50 @@
+.samin{
+   
+        background-image:url(./images/img-1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 0 0 0 0;
+        padding: 10rem 0;    
+   
+}
+.p{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+.h1{
+    font-size: 70px;
+    font-style: bold;
+    text-align: center;
+
+
+
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 7, 107);
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 60px;
+     padding-top: 20px;
+     font-size: 30px;
+}
+a{
+    color: rgb(255, 255, 255);
+
+}
+.td1{
+    font-size: 25px;
+    text-align: center;
+    min-width: 220px;
+}
+.td2{
+    font-size: 25px;
+    text-align: center;
+    min-width: 360px;
+}
